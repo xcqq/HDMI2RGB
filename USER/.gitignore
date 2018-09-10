@@ -1,0 +1,16 @@
+*.o
+*.crf
+/DebugConfig/
+*.d
+*.htm
+/EventRecorderStub.scvd
+/ExtDll.iex
+/HDMI2RGB.uvguix.xczha
+/HDMI2RGB_Debug.dep
+/JLinkLog.txt
+/LED.axf
+/LED.hex
+/LED.lnp
+/LED.map
+/LED.sct
+/LED_sct.Bak
